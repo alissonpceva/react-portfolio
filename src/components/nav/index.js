@@ -4,6 +4,7 @@ import PortfolioSection from "../portfolio";
 import ContactSection from "../contact";
 import ResumeSection from "../resume";
 import Footer from "../footer";
+import "../../App.css";
 
 const Navigation = () => {
   const [currentSection, setCurrentSection] = useState("About Me");

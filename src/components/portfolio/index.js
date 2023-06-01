@@ -3,11 +3,25 @@ import React from "react";
 const PortfolioSection = () => {
   const applications = [
     {
-      title: "Application 1",
-      deployedLink: "https://example.com/application1",
-      githubLink: "https://github.com/developer/application1",
+      title: "NoteTaker",
+      deployedLink: "https://peaceful-brushlands-90540.herokuapp.com/",
+      githubLink: "https://github.com/alissonpceva/notetaker",
     },
-    // Add more application objects as needed
+    {
+      title: "Weather API",
+      deployedLink: "https://alissonpceva.github.io/Weather-API/",
+      githubLink: "https://github.com/alissonpceva/Weather-API",
+    },
+    {
+      title: "SOS Recipes",
+      deployedLink: "https://sosrecipes.herokuapp.com/",
+      githubLink: "https://github.com/GeorgeDoyle1175/Project2Links",
+    },
+    {
+      title: "PAWFinder",
+      deployedLink: "https://pawfinder.herokuapp.com",
+      githubLink: "https://github.com/ddelgado25/Pawfinder-ProjectLinks",
+    },
   ];
 
   return (

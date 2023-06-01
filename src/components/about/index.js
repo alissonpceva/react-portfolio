@@ -1,4 +1,5 @@
 import React from "react";
+import "../../App.css";
 
 const AboutMeSection = () => {
   return (
@@ -10,10 +11,7 @@ const AboutMeSection = () => {
       <div>
         <h2>Alisson Cevallos</h2>
         <p>
-          Short bio about the developer. Lorem ipsum dolor sit amet,
-          consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-          et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          I'm an Ecuadorian born Italian raised, Miamian citizen who has learned to code somewhat from this bootcamp. 
         </p>
       </div>
     </section>

@@ -44,7 +44,7 @@ To run this application locally, follow these steps:
 
 ## Live Application
 
-The Portfolio app is live and can be accessed [here](https://your-app-url.com).
+The Portfolio app is live and can be accessed [here](https://alissonpceva.github.io/react-portfolio/).
 
 ## Contributors
 [Alisson Cevallos](https://github.com/alissonpceva)
